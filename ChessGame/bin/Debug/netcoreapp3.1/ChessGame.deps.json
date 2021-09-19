@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ChessGame/1.0.0": {
+        "dependencies": {
+          "BoardModel": "1.0.0"
+        },
+        "runtime": {
+          "ChessGame.dll": {}
+        }
+      },
+      "BoardModel/1.0.0": {
+        "runtime": {
+          "BoardModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChessGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BoardModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

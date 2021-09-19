@@ -1,0 +1,10 @@
+C:\Users\kevin\OneDrive\Documents\Visual Studio 2019\Projects\BoardModel\bin\Debug\netcoreapp3.1\BoardModel.deps.json
+C:\Users\kevin\OneDrive\Documents\Visual Studio 2019\Projects\BoardModel\bin\Debug\netcoreapp3.1\BoardModel.dll
+C:\Users\kevin\OneDrive\Documents\Visual Studio 2019\Projects\BoardModel\bin\Debug\netcoreapp3.1\BoardModel.pdb
+C:\Users\kevin\OneDrive\Documents\Visual Studio 2019\Projects\BoardModel\obj\Debug\netcoreapp3.1\BoardModel.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Documents\Visual Studio 2019\Projects\BoardModel\obj\Debug\netcoreapp3.1\BoardModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive\Documents\Visual Studio 2019\Projects\BoardModel\obj\Debug\netcoreapp3.1\BoardModel.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive\Documents\Visual Studio 2019\Projects\BoardModel\obj\Debug\netcoreapp3.1\BoardModel.AssemblyInfo.cs
+C:\Users\kevin\OneDrive\Documents\Visual Studio 2019\Projects\BoardModel\obj\Debug\netcoreapp3.1\BoardModel.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Documents\Visual Studio 2019\Projects\BoardModel\obj\Debug\netcoreapp3.1\BoardModel.dll
+C:\Users\kevin\OneDrive\Documents\Visual Studio 2019\Projects\BoardModel\obj\Debug\netcoreapp3.1\BoardModel.pdb
